@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+body {
+  margin: 0;
+  background-color: #6e6c6c;
+}
